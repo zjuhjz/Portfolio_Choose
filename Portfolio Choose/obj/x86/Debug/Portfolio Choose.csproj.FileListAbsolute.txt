@@ -1,0 +1,11 @@
+D:\Documents\Visual Studio 2010\Projects\Portfolio Choose\Portfolio Choose\bin\Debug\Portfolio Choose.exe
+D:\Documents\Visual Studio 2010\Projects\Portfolio Choose\Portfolio Choose\bin\Debug\Portfolio Choose.pdb
+D:\Documents\Visual Studio 2010\Projects\Portfolio Choose\Portfolio Choose\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\Portfolio Choose\Portfolio Choose\obj\x86\Debug\Portfolio_Choose.Form1.resources
+D:\Documents\Visual Studio 2010\Projects\Portfolio Choose\Portfolio Choose\obj\x86\Debug\Portfolio_Choose.Properties.Resources.resources
+D:\Documents\Visual Studio 2010\Projects\Portfolio Choose\Portfolio Choose\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents\Visual Studio 2010\Projects\Portfolio Choose\Portfolio Choose\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents\Visual Studio 2010\Projects\Portfolio Choose\Portfolio Choose\obj\x86\Debug\Portfolio Choose.exe
+D:\Documents\Visual Studio 2010\Projects\Portfolio Choose\Portfolio Choose\obj\x86\Debug\Portfolio Choose.pdb
+d:\Documents\Visual Studio 2010\Projects\Portfolio Choose\Portfolio Choose\obj\x86\Debug\Portfolio_Choose.Form2.resources
+d:\Documents\Visual Studio 2010\Projects\Portfolio Choose\Portfolio Choose\bin\Debug\Portfolio Choose.exe.config

@@ -1,0 +1,13 @@
+d:\Documents\Visual Studio 2010\Projects\Portfolio Choose\Portfolio Choose\bin\Release\Portfolio Choose.exe
+d:\Documents\Visual Studio 2010\Projects\Portfolio Choose\Portfolio Choose\bin\Release\Portfolio Choose.pdb
+d:\Documents\Visual Studio 2010\Projects\Portfolio Choose\Portfolio Choose\obj\x86\Release\ResolveAssemblyReference.cache
+d:\Documents\Visual Studio 2010\Projects\Portfolio Choose\Portfolio Choose\obj\x86\Release\Portfolio_Choose.Form1.resources
+d:\Documents\Visual Studio 2010\Projects\Portfolio Choose\Portfolio Choose\obj\x86\Release\Portfolio_Choose.Form2.resources
+d:\Documents\Visual Studio 2010\Projects\Portfolio Choose\Portfolio Choose\obj\x86\Release\Portfolio_Choose.Properties.Resources.resources
+d:\Documents\Visual Studio 2010\Projects\Portfolio Choose\Portfolio Choose\obj\x86\Release\GenerateResource.read.1.tlog
+d:\Documents\Visual Studio 2010\Projects\Portfolio Choose\Portfolio Choose\obj\x86\Release\GenerateResource.write.1.tlog
+d:\Documents\Visual Studio 2010\Projects\Portfolio Choose\Portfolio Choose\obj\x86\Release\Portfolio Choose.exe
+d:\Documents\Visual Studio 2010\Projects\Portfolio Choose\Portfolio Choose\obj\x86\Release\Portfolio Choose.pdb
+d:\Documents\Visual Studio 2010\Projects\Portfolio Choose\Portfolio Choose\bin\Release\Portfolio Choose.exe.config
+d:\Documents\Visual Studio 2010\Projects\Portfolio Choose\Portfolio Choose\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+d:\Documents\Visual Studio 2010\Projects\Portfolio Choose\Portfolio Choose\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
